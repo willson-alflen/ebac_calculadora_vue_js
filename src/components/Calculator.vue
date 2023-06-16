@@ -35,7 +35,7 @@
 
     <div class="row mt-4">
       <div class="col-md-12">
-        <h3 class="text-center">Result: {{ result }}</h3>
+        <h3 class="text-center">Resultado: {{ result }}</h3>
       </div>
     </div>
   </div>
