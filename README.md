@@ -6,6 +6,8 @@ Esta atividade é referente ao módulo 27 - Conhecendo o VueJS do curso Engenhei
 
 <br>
 
-O resultado você pode conferir aqui:
+O resultado você pode conferir aqui: https://calculadora-vue-js-nu.vercel.app/
 
 ---
+
+![calculadora](https://github.com/willson-alflen/ebac_tech_talks/assets/87523872/e234d36e-a11e-4d7a-8d39-37526a21d4fe)
