@@ -1,29 +1,11 @@
 # calculadora_vue_js
 
-This template should help get you started developing with Vue 3 in Vite.
+---
 
-## Recommended IDE Setup
+Esta atividade é referente ao módulo 27 - Conhecendo o VueJS do curso Engenheiro Front-End da EBAC. A atividade consistia em criar uma calculadora simples utilizando o VueJS, que tivesse dois campos numéricos e um input do tipo select para escolher entre as operações. Ao alterar os campos, o cálculo já deveria ser realizado, sem precisar clicar em nenhum botão. Eu utilizei o bootstrap para estilizar o projeto pensando nas cores da logo do Vue.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<br>
 
-## Customize configuration
+O resultado você pode conferir aqui:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+---
